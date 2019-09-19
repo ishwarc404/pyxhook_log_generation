@@ -6,4 +6,4 @@ Two versions:
   - pip install the two .whl files
   - run the main.py code
 2. Darwin
-  - directly run the main_linu.py code
+  - directly run the main_linux.py code
